@@ -9,4 +9,4 @@ To execute:
 * `mvn compile`
 * `mvn test`
 * `mvn exec:java`
-* or perhaps: `mvn exec:java -Dexec.args="Houston"`
+* or perhaps: `mvn exec:java -Dname="Houston"`
